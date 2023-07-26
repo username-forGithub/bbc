@@ -1,7 +1,7 @@
 require "active_support/core_ext/integer/time"
 
 Rails.application.routes.default_url_options = {
-  host: 'https://tutorback-api.onrender.com'
+  host: 'https://bbc-prod.up.railway.app'
 }
 
 Rails.application.configure do
